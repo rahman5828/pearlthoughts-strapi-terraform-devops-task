@@ -1,0 +1,16 @@
+# Strapi / Node
+node_modules/
+build/
+.cache/
+strapi-app/node_modules/
+strapi-app/.cache/
+strapi-app/build/
+
+# Terraform
+.terraform/
+terraform/.terraform/
+
+# Env files
+.env
+docker/.env
+strapi-app/.env
