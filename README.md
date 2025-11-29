@@ -26,7 +26,6 @@ Public API access with proper role permissions
 
 GitHub repository containing all code
 
-Screencast demonstration (to be added by you)
 
 🏗 Architecture
 +-------------------------+
